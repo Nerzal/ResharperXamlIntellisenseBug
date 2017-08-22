@@ -1,0 +1,6 @@
+C:\Users\ttheel\Documents\Visual Studio 2017\Projects\XAML Example\XAML Example\bin\Debug\netstandard2.0\XAML Example.deps.json
+C:\Users\ttheel\Documents\Visual Studio 2017\Projects\XAML Example\XAML Example\bin\Debug\netstandard2.0\XAML Example.dll
+C:\Users\ttheel\Documents\Visual Studio 2017\Projects\XAML Example\XAML Example\obj\Debug\netstandard2.0\XAML Example.csprojResolveAssemblyReference.cache
+C:\Users\ttheel\Documents\Visual Studio 2017\Projects\XAML Example\XAML Example\obj\Debug\netstandard2.0\XAML Example.csproj.CoreCompileInputs.cache
+C:\Users\ttheel\Documents\Visual Studio 2017\Projects\XAML Example\XAML Example\obj\Debug\netstandard2.0\XAML Example.AssemblyInfoInputs.cache
+C:\Users\ttheel\Documents\Visual Studio 2017\Projects\XAML Example\XAML Example\obj\Debug\netstandard2.0\XAML Example.AssemblyInfo.cs
